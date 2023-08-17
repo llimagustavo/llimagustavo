@@ -2,9 +2,6 @@
 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>👯 Procurando estágio na área Mobile<br>🌱 Aprimorando conhecimentos em Dart e Flutter<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/zlloes/]) 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=llimagustavo&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=llimagustavo&theme=blue-green&hide_border=false)<br/>
