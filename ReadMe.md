@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>👯 Procurando estágio na área Mobile<br>🌱 Aprimorando conhecimentos em Dart e Flutter<br>
+🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>👯 Procurando estágio<br>🌱 Aprimorando conhecimentos em Dart e Flutter<br>
 
 
 
